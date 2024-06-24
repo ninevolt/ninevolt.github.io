@@ -47,7 +47,7 @@ p + p {
 
 .page {
 	height: 100vh;
-	height: 100dvh;
+	height: -webkit-fill-available;
 
 	display: grid;
 	grid-template-rows: auto 1fr auto;
