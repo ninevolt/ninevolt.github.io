@@ -14,14 +14,14 @@ body {
 	font-optical-sizing: auto;
 	font-style: normal;
 	font-weight: 500;
-	line-height: 24px;
+	line-height: 22px;
 	font-size: 14px;
 	color: var(--c-text);
 }
 
 @media screen and (min-width: 360px) {
 	body {
-		font-size: 16px;
+		font-size: 15px;
 	}
 }
 
@@ -110,7 +110,7 @@ p + p {
 	letter-spacing: 0.16em;
 	font-weight: 600;
 	line-height: 1;
-	font-size: 14px;
+	font-size: 13px;
 }
 
 /**/
